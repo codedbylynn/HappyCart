@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  text-decoration: underline; 
+}
+#shipping{
+  color: #ff6600;
+}
+#paragraph1{
+  font-weight:bolder;
+}
+.main {
+ font-style: italic;
+}
+#membership{
+ background-color: #0066ff;
+ margin:100px;
+ padding: 30px;
+ border-radius: 20px;
+}
+#services{
+  display: flex;
+}
+img{
+  width: 250px;
+  height: 200px;
+}
